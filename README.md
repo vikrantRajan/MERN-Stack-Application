@@ -7,8 +7,8 @@ In the future steps, the REST API (server) & React Frontend (client) will be on 
 To start the project you must open 2 terminals
 
 ON TERMINAL #1 (REACT FRONTEND)
-cd memory-app
-npm start
+1. <code>cd memory-app</code>
+2. npm start
 
 ON TERMINAL #2 (SERVER-SIDE REST API)
 cd server
