@@ -8,10 +8,10 @@ To start the project you must open 2 terminals
 
 ON TERMINAL #1 (REACT FRONTEND)
 1. <code>cd memory-app</code>
-2. npm start
+2. <code>npm start</code>
 
 ON TERMINAL #2 (SERVER-SIDE REST API)
-cd server
-npm start
+1. <code>cd server</code>
+2. <code>npm start</code>
 
 
